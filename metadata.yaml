@@ -1,0 +1,38 @@
+_repo: Collected-Essays-Volume-VScience-and-Christian-Tradition--Essays_15905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_issued: '2005-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Miracles'
+- !lcsh 'Agnosticism'
+- !lcsh 'Religion and science'
+tableOfContents: 'Prologue (controverted questions, 1892) -- Scientific and pseudo-scientific
+  realism (1887) -- Science and pseudo-science (1887) -- An Episcopal trilogy (1887)
+  -- The value of witness to the miraculous (1889) -- Possibilities and impossibilities
+  (1891) -- Agnosticism (1889) -- Agnosticism: a rejoinder (1889) -- Agnosticism and
+  Christianity (1889) -- The keepers of the herd of swine (1890) -- Illustrations
+  of Mr. Gladstone''s controversial methods (1891).'
+title: 'Collected Essays, Volume V
+
+  Science and Christian Tradition: Essays'
+url: http://www.gutenberg.org/ebooks/15905
